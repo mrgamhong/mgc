@@ -1,7 +1,7 @@
 objectid,title,format,filename,date,subject,gender,englishfamilyname,englishgivenname,chinesefamilyname,chinesegivenname,pronounced,othernames,location,province,county,district,township,vVillage_,birthdate,deathdate,plot
 1,Wong Bing,image/jpeg,1A_Bing_Wong_1.jpg,1970-05-12,,Male,Wong,Bing,_,_,Wong Bing,,Guangdong Ð Guangzhou,__,__,__,,,1891,12/5/1970,1A
 2,Joseph Goong Chan,image/jpeg,2A_Joseph_Goong_1.jpg,1962-05-06,,Male,Chan~,Joseph Goong,_,__*,Chan Zau Gwong,,,,,,,,1913,6/5/1962,2A
-3,Lau,image/jpeg,3A_1.jpg,Ð,,Male,Lau~,,_,__,Lau Wing Hei,,Guangdong Ð Taishan,__,__,,__,__,Ð,Ð,3A
+3,Lau,image/jpeg,3A_1.jpg,,,Male,Lau~,,_,__,Lau Wing Hei,,Guangdong Ð Taishan,__,__,,__,__,Ð,Ð,3A
 4,Blank,image/jpeg,,,,,x,,,,,,,,,,,,,,4A
 5,Blank,image/jpeg,,,,,x,,,,,,,,,,,,,,5A
 6,Wong Ho Coon,image/jpeg,6A_Wong_Ho_Coon_1.jpg,1962-09-04,,Male,Wong (?),"Ho Coon ""Ronnie""",,,,,,,,,,,1936,4/9/1962,6A
