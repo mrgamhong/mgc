@@ -1,4 +1,4 @@
-objectid,title,format,filename,date,subject,gender,englishfamilyname,englishgivenname,chinesefamilyname,chinesegivenname,pronounced,othernames,location,province,county,district,township,vVillage村,birthdate,deathdate,plot
+objectid,title,format,filename,date,subject,gender,englishfamilyname,englishgivenname,description,chinesegivenname,pronounced,othernames,location,province,county,district,township,vVillage村,birthdate,deathdate,plot
 1,Wong Bing,image/jpeg,1A_Bing_Wong_1.jpg,1970-05-12,Wong,Male,Wong,Bing,黄,炳,Wong Bing,,Guangdong – Guangzhou,廣東,廣州,番禺,,,1891,12/5/1970,1A
 2,Joseph Goong Chan,image/jpeg,2A_Joseph_Goong_1.jpg,1962-05-06,Chan,Male,Chan~,Joseph Goong,陳,周光*,Chan Zau Gwong,,,,,,,,1913,6/5/1962,2A
 3,Lau,image/jpeg,3A_1.jpg,,Lau,Male,Lau~,,劉,詠希,Lau Wing Hei,,Guangdong – Taishan,廣東,台山,,横水,新塘,–,–,3A
