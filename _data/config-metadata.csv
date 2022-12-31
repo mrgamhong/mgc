@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date,Date of grave,
 description,Description,
 subject,Subjects,true
-location,Location
+location,Location,
 latitude,Latitude
 longitude,Longitude
 source,Source
@@ -16,15 +16,15 @@ rightsstatement,Rights Statement,,true
 gender,Gender,
 englishfamilyname,Family Name (English),
 englishgivenname,Given Name (English),
-chinesefamilyname,Family Name (Chinese),
+chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
 pronounced,Pronounced,
 othernames, Other names
-province,Province
-county,County,
-district,District,
-township,Township,
-vVillage村,Village,
+province,Province 省,
+county,County 縣,
+district,District 區,
+township,Township 鄉,
+vVillage村,Village 村,
 birthdate, Birth date,
 deathdate,Death date
 plot,Plot Number,
