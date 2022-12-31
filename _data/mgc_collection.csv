@@ -1,9 +1,9 @@
-objectid,title,format,filename,date,subject,description,gender,englishfamilyname,englishgivenname,chinesefamilyname,chinesegivenname,pronounced,othernames,location,province,county,district,township,vVillage村,birthdate,deathdate,plot
-1,Wong Bing,image/jpeg,1A_Bing_Wong_1.jpg,1970-05-12,Wong,Chinese grave located at Melbourne General Cemetery,Male,Wong,Bing,黄,炳,Wong Bing,,Guangdong – Guangzhou,廣東,廣州,番禺,,,1891,12/5/1970,1A
-2,Joseph Goong Chan,image/jpeg,2A_Joseph_Goong_1.jpg,1962-05-06,Chan,Chinese grave located at Melbourne General Cemetery,Male,Chan~,Joseph Goong,陳,周光*,Chan Zau Gwong,,,,,,,,1913,6/5/1962,2A
-3,Lau,image/jpeg,3A_1.jpg,,Lau,Chinese grave located at Melbourne General Cemetery,Male,Lau~,,劉,詠希,Lau Wing Hei,,Guangdong – Taishan,廣東,台山,,横水,新塘,–,–,3A
-6,Wong Ho Coon,image/jpeg,6A_Wong_Ho_Coon_1.jpg,1962-09-04,Wong,Chinese grave located at Melbourne General Cemetery,Male,Wong (?),"Ho Coon ""Ronnie""",,,,,,,,,,,1936,4/9/1962,6A
-7,Lau Ah Leung,image/jpeg,7A_Ah_Leung_1.jpg,1962-09-30,Lau,Chinese grave located at Melbourne General Cemetery,Male,Lau~,Ah Leung,劉,棟維,Lau Dong Wei,,Guangdong – Taishan,廣東,台山,,横水,大塘,,30/9/1962,7A
-8,Ah Ching,image/jpeg,8A_Ah_Ching_1.jpg,1962-07-13,Chan,Chinese grave located at Melbourne General Cemetery,Male,Chan~,Ah Ching,陳,縂燕,Chan Zhong Yeen,,Guangdong – Xinhui,廣東,新會,,,京梅,,13/7/1962,8A
-9,Chau Ting Ching,image/jpeg,9A_Ting_Ching_Chau_1.jpg,27/1/1893,Chau,Chinese grave located at Melbourne General Cemetery,Female,Chau,Ting Ching ,周,定貞,Chau Deng Zeng,黄 Wong (maiden),,,,,,,*16/11/1962,27/1/1893,9A
-10,Louey Hoong,image/jpeg,10A_Louey_Hoong_1.jpg,1962-12-01,Louey,Chinese grave located at Melbourne General Cemetery,Male,Louey,Hoong,雷,宜普,Louey Yi Po,,Guangdong – Taishan,廣東,台山,,毛坪,,22/12/1881,1/12/1962,10A
+objectid,title,format,filename,date,subject,description,gender,englishfamilyname,englishgivenname,chinesefamilyname,chinesegivenname,pronounced,othernames,location,province,county,district,township,village,birthdate,deathdate,plot,latitude,longitude
+1,Wong Bing,image/jpeg,1A_Bing_Wong_1.jpg,1970-05-12,Wong,Chinese grave located at Melbourne General Cemetery,Male,Wong,Bing,黄,炳,Wong Bing,,Guangdong – Guangzhou,廣東,廣州,番禺,,,1891,12/5/1970,1A,"-37.79010052238806, 144.96381870536294",144.9638187
+2,Joseph Goong Chan,image/jpeg,2A_Joseph_Goong_1.jpg,1962-05-06,Chan,Chinese grave located at Melbourne General Cemetery,Male,Chan~,Joseph Goong,陳,周光*,Chan Zau Gwong,,,,,,,,1913,6/5/1962,2A,,
+3,Lau,image/jpeg,3A_1.jpg,,Lau,Chinese grave located at Melbourne General Cemetery,Male,Lau~,,劉,詠希,Lau Wing Hei,,Guangdong – Taishan,廣東,台山,,横水,新塘,,,3A,,
+6,Wong Ho Coon,image/jpeg,6A_Wong_Ho_Coon_1.jpg,1962-09-04,Wong,Chinese grave located at Melbourne General Cemetery,Male,Wong (?),"Ho Coon ""Ronnie""",,,,,,,,,,,1936,4/9/1962,6A,,
+7,Lau Ah Leung,image/jpeg,7A_Ah_Leung_1.jpg,1962-09-30,Lau,Chinese grave located at Melbourne General Cemetery,Male,Lau,Ah Leung,劉,棟維,Lau Dong Wei,,Guangdong – Taishan,廣東,台山,,横水,大塘,,30/9/1962,7A,,
+8,Ah Ching,image/jpeg,8A_Ah_Ching_1.jpg,1962-07-13,Chan,Chinese grave located at Melbourne General Cemetery,Male,Chan,Ah Ching,陳,縂燕,Chan Zhong Yeen,,Guangdong – Xinhui,廣東,新會,,,京梅,,13/7/1962,8A,,
+9,Chau Ting Ching,image/jpeg,9A_Ting_Ching_Chau_1.jpg,27/1/1893,Chau,Chinese grave located at Melbourne General Cemetery,Female,Chau,Ting Ching ,周,定貞,Chau Deng Zeng,黄 Wong (maiden),,,,,,,*16/11/1962,27/1/1893,9A,,
+10,Louey Hoong,image/jpeg,10A_Louey_Hoong_1.jpg,1962-12-01,Louey,Chinese grave located at Melbourne General Cemetery,Male,Louey,Hoong,雷,宜普,Louey Yi Po,,Guangdong – Taishan,廣東,台山,,毛坪,,22/12/1881,1/12/1962,10A,,
