@@ -4,7 +4,7 @@ creator,Creator,
 date,Date of grave,
 description,Description,
 subject,Subjects,true
-location,Location,
+location,Location,true
 latitude,Latitude
 longitude,Longitude
 source,Source
@@ -20,11 +20,11 @@ chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
 pronounced,Pronounced,
 othernames, Other names
-province,Province 省,
-county,County 縣,
-district,District 區,
-township,Township 鄉,
-Village,Village 村,
+province,Province 省,true
+county,County 縣,true
+district,District 區,true
+township,Township 鄉,true
+Village,Village 村,true
 birthdate, Birth date,
 deathdate,Death date
 plot,Plot Number,
