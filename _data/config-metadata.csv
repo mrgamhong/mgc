@@ -16,7 +16,7 @@ chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
 pronounced,Pronounced,
 othernames, Other names
-location,Place of origin,true
+location,Birthplace,true
 province,Province 省,
 county,County 縣,
 district,District 區,
