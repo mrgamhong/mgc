@@ -16,14 +16,14 @@ chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
 pronounced,Pronounced,
 othernames, Other names
-location,Location,true
-province,Province 省,true
-county,County 縣,true
-district,District 區,true
-township,Township 鄉,true
-Village,Village 村,true
+location,Place of origin,true
+province,Province 省,
+county,County 縣,
+district,District 區,
+township,Township 鄉,
+Village,Village 村,
 birthdate, Birth date,
 deathdate,Death date
-plot,Plot Number,
+plot,Plot Location/Number,
 latitude,Latitude
 longitude,Longitude
