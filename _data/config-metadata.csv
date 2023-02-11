@@ -3,8 +3,6 @@ title,Deceased,
 heading1,TRANSCRIPTION
 creator,Creator,
 date,Year of grave,
-description,Description,
-subject,Subjects,true
 source,Source
 identifier,Source Identifier,,
 type,Type,
@@ -15,6 +13,7 @@ englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
+heading2, INTERPRETATION
 pronounced,Pronounced,
 othernames, Other names
 location,Birthplace,true
@@ -25,6 +24,9 @@ township,Township 鄉,
 Village,Village 村,
 birthdate, Birth date,
 deathdate,Death date
+heading3, OTHER
 plot,Plot Location/Number,
 latitude,Latitude
 longitude,Longitude
+subject,Subjects,true
+description,Description,
