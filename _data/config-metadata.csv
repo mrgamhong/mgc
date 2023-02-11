@@ -1,15 +1,12 @@
 field,display_name,browse_link,external_link
 title,Deceased,
-
 heading1,TRANSCRIPTION
 creator,Creator,
-date,Year of grave,
 source,Source
 identifier,Source Identifier,,
 type,Type,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-gender,Gender,
 englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Chinese),true
@@ -25,9 +22,11 @@ township,Township 鄉,
 Village,Village 村,
 birthdate, Birth date,
 deathdate,Death date
+date,Year of grave,
+gender,Gender,
 heading3, OTHER
 plot,Plot Location/Number,
 latitude,Latitude
 longitude,Longitude
 subject,Subjects,true
-description,Description,
+description,Notes,
