@@ -16,15 +16,15 @@ county,County 縣,
 district,District 區,
 township,Township 鄉,
 Village,Village 村,
-heading2, INTERPRETATION
+heading2,INTERPRETATION
 pronounced,Pronounced,
 othernames, Other names
-location,Birthplace,true
+location,Birthplace (present day),true
 birthdate, Birth date,
 deathdate,Death date
 date,Year of grave,
 gender,Gender,
-heading3, OTHER
+heading3,OTHER
 plot,Plot Location/Number,
 latitude,Latitude
 longitude,Longitude
