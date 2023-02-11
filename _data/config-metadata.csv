@@ -15,7 +15,7 @@ province,Province 省,true
 county,County 縣,true
 district,District 區,true
 township,Township 鄉,true
-Village,Village 村,
+Village,Village,true
 heading2,INTERPRETATION
 pronounced,Pronounced,
 othernames, Other names
