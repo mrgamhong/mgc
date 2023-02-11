@@ -1,8 +1,7 @@
-TEST<br>
 field,display_name,browse_link,external_link
 title,Deceased,
 creator,Creator,
-date,Date of grave,
+date,Year of grave,
 description,Description,
 subject,Subjects,true
 source,Source
