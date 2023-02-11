@@ -11,15 +11,15 @@ englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
-heading2, INTERPRETATION
-pronounced,Pronounced,
-othernames, Other names
-location,Birthplace,true
 province,Province 省,
 county,County 縣,
 district,District 區,
 township,Township 鄉,
 Village,Village 村,
+heading2, INTERPRETATION
+pronounced,Pronounced,
+othernames, Other names
+location,Birthplace,true
 birthdate, Birth date,
 deathdate,Death date
 date,Year of grave,
