@@ -11,11 +11,11 @@ englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Chinese),true
 chinesegivenname,Given Name (Chinese),
-province,Province,true
+province,Province 省,true
 county,County 縣,true
 district,District 區,true
 township,Township 鄉,true
-Village,Village,true
+Village,Village 村,true
 heading2,INTERPRETATION
 pronounced,Pronounced,
 othernames, Other names
