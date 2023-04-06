@@ -25,3 +25,5 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
+
+{% include feature/pdf.html objectid="https://smct.org.au/uploads/SMCT112_MelbourneGeneral_A3_F3_Digital6.pdf" width="50" caption="Melbourne General cemetery Map" %}
