@@ -25,4 +25,4 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 {% include feature/pdf.html objectid="https://smct.org.au/uploads/SMCT112_MelbourneGeneral_A3_F3_Digital6.pdf" width="65" caption="Melbourne General cemetery Map" %}
 
-{% include feature/video.html objectid="https://vimeo.com/812673252/a903f8641d" width="75" %}
+{% include feature/video.html objectid="https://vimeo.com/812673252" width="75" %}
